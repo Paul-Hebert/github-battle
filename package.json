@@ -4,9 +4,9 @@
   "description": "An online tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "production": "webpack -p"
   },
-  "author": "",
+  "author": "Paul Hebert",
   "license": "ISC",
   "dependencies": {
     "react": "^15.4.2",
