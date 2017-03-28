@@ -3,4 +3,4 @@ var ReactDOM = require('react-dom');
 
 var routes = require('./config/routes');
 
-ReactDOM.render(<Avatar user={USER_DATA}/>, document.getElementById('app'));
+ReactDOM.render(routes, document.getElementById('app'));
